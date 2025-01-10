@@ -9,3 +9,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects with hyp
 | 🚴‍♀️ [Physical Activity Regression Model](https://github.com/jackiwynter/Physical-Activity-Regression-Model) | Python, Multi-Layer-Perceptron | Another Project Description |
 | 🟩 [Colour Pattern Identifier](https://github.com/jackiwynter/Colour-Pattern-Identifier) | Python, Multi-Layer-Perceptron | Another Project Description |
 | 🍿 [IMDb Statistical Analysis](https://github.com/jackiwynter/IMDb-Statistical-Analysis) | Python, Multi-Layer-Perceptron | Another Project Description |
+| 💸 [ Online Payment System]() | Python | Another Project Description |
+| 📉 [Mapping Double Descent in ML]() | Python | Another Project Description |
+| 🧠 [Redundancy vs Algorithmic Efficiency]() | Python | Another Project Description |
