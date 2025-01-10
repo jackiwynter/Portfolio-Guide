@@ -4,7 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects with hyp
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 💬 [NLP Sentiment Classifier](https://github.com/jackiwynter/NLP-Sentiment-Classifier) | Python, Naive Bayes Classifier | Project Description! I'm sure it is really cool. |
+| 💬 [NLP Sentiment Classifier](https://github.com/jackiwynter/NLP-Sentiment-Classifier) | Python, NLTK, Pandas, Matplotlib | Sentiment analysis project leveraging NLP techniques to classify movie reviews as positive or negative, featuring custom wordlist-based and Naive Bayes classifiers, evaluated through precision, recall, and F1 scores. |
 | 🌾 [Crop Export Value MLP](https://github.com/jackiwynter/Crop-Export-Value-MLP) | Python, Multi-Layer-Perceptron | Another Project Description |
 | 🚴‍♀️ [Physical Activity Regression Model](https://github.com/jackiwynter/Physical-Activity-Regression-Model) | Python, Multi-Layer-Perceptron | Another Project Description |
 | 🟩 [Colour Pattern Identifier](https://github.com/jackiwynter/Colour-Pattern-Identifier) | Python, Multi-Layer-Perceptron | Another Project Description |
